@@ -1,0 +1,10 @@
+{
+  "venvPath": "C:/Users/surya/Downloads/Cancer Detection",
+  "venv": ".venv-1",
+  "pythonVersion": "3.11",
+  "typeCheckingMode": "basic",
+  "reportMissingModuleSource": "none",
+  "reportMissingImports": "none",
+  "reportArgumentType": "none",
+  "reportIndexIssue": "none"
+}
